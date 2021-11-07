@@ -20,21 +20,21 @@
     "index.js"
   ],
   "dependencies": {
-    "anymatch": "^3.0.0",
+    "anymatch": "^3.1.2",
     "loggy": "^1.0.8",
-    "postcss": "^7.0.24",
-    "postcss-modules": "^1.3.2",
+    "postcss": "^8.3.11",
+    "postcss-modules": "^4.2.2",
     "progeny": "^0.12.0"
   },
   "license": "MIT",
   "devDependencies": {
-    "autoprefixer": "^7.1.2",
+    "autoprefixer": "^10.4.0",
     "css-mqpacker": "^6.0.1",
     "csswring": "^6.0.0",
-    "mocha": "^6.2",
-    "postcss-import": "^10.0.0",
-    "postcss-scss": "^1.0.2",
-    "should": "^11.1.0"
+    "mocha": "^9.1",
+    "postcss-import": "^14.0.2",
+    "postcss-scss": "^4.0.2",
+    "should": "^13.2.3"
   },
   "engines": {
     "node": ">= 10.16"
